@@ -1,0 +1,13 @@
+io\swagger\api\ApiOriginFilter.class
+io\swagger\api\LoginApiService.class
+io\swagger\api\Bootstrap.class
+io\swagger\api\JacksonJsonProvider.class
+io\swagger\api\impl\LoginApiServiceImpl.class
+io\swagger\api\ApiResponseMessage.class
+io\swagger\api\factories\LoginApiServiceFactory.class
+io\swagger\api\LoginApi.class
+io\swagger\api\NotFoundException.class
+io\swagger\api\RFC3339DateFormat.class
+io\swagger\api\ApiException.class
+io\swagger\model\Data.class
+io\swagger\api\StringUtil.class
